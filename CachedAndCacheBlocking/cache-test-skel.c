@@ -1,3 +1,4 @@
+/*
  * NOTES:
  * 1. When using access_cache() you do not need to provide a "real" memory
  * addresses. You can use any convenient integer value as a memory address,
