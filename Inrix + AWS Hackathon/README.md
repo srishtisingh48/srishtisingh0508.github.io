@@ -2,7 +2,7 @@ AI-Powered System for Optimizing Speed Limits and Congestion
 
 Purpose and Overview:
 - Looks at various features (speed limit and average historical speed of road), extracted from the SegmentSpeed Inrix API. 
-- Uses a neural network model to calculate the road congestion based on the these two features
+- Uses a neural network model to calculate the road congestion based on these two features.
 - The model allows a city planner to determine the optimal speed limit for the least road congestion.
 
 Methods:
