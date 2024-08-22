@@ -1,7 +1,6 @@
 Java:
 - Absurdle
 - Brett Feed Quiz
-- CachesAndCacheBlocking
 - Ciphers
 - ConnectFour
 - Disaster Relief
@@ -11,6 +10,7 @@ Java:
 
 C#
 - Dynamic Storage Allocator
+- CachesAndCacheBlocking
 
 Python
 - Emotion Detection
